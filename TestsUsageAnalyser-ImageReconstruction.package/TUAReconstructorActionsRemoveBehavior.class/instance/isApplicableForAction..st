@@ -1,3 +1,3 @@
 testing
 isApplicableForAction: aKindOfModification
-	^ aKindOfModification = #mcWorkingCopyDeleted:
+	^ aKindOfModification = #behaviorRemoved

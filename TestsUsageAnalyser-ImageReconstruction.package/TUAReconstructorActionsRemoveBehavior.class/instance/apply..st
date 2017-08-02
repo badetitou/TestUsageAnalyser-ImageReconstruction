@@ -1,4 +1,4 @@
 testing
 apply: anAnnouncement
-	RPackageOrganizer default basicUnregisterPackageNamed: (self extractPackageNameFromAnnouncement: anAnnouncement)
+	Smalltalk globals removeClassNamed: (anAnnouncement at: #affectedObject)
 	
