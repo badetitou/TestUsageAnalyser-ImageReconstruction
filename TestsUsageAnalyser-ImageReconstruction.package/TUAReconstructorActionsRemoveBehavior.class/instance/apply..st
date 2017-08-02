@@ -1,0 +1,4 @@
+testing
+apply: anAnnouncement
+	RPackageOrganizer default basicUnregisterPackageNamed: (self extractPackageNameFromAnnouncement: anAnnouncement)
+	

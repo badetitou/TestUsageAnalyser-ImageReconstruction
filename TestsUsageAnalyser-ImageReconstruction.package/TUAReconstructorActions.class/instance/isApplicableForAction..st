@@ -1,0 +1,3 @@
+testing
+isApplicableForAction: aKindOfModification
+	self subclassResponsibility 

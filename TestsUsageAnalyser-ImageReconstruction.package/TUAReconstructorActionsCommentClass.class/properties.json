@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TUAReconstructorActions",
+	"category" : "TestsUsageAnalyser-ImageReconstruction",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TUAReconstructorActionsCommentClass",
+	"type" : "normal"
+}

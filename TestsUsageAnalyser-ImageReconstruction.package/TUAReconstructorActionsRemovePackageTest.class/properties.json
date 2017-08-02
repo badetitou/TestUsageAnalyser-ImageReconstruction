@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "TestsUsageAnalyser-ImageReconstruction-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TUAReconstructorActionsRemovePackageTest",
+	"type" : "normal"
+}
